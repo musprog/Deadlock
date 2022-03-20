@@ -1,0 +1,11 @@
+E:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\bin\Debug\Deadlock.exe
+E:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\bin\Debug\Deadlock.pdb
+E:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\obj\Debug\Deadlock.csprojAssemblyReference.cache
+E:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\obj\Debug\Deadlock.exe
+E:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\obj\Debug\Deadlock.pdb
+F:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\bin\Debug\Deadlock.exe
+F:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\bin\Debug\Deadlock.pdb
+F:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\obj\Debug\Deadlock.csproj.AssemblyReference.cache
+F:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+F:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\obj\Debug\Deadlock.exe
+F:\OldD\Documents\My old Computer Data\My Documents\programming3\Deadlock\obj\Debug\Deadlock.pdb
